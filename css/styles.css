@@ -1,0 +1,29 @@
+body {
+  background-color: #ccafaf;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 100%
+}
+
+img {
+  height: 175px;
+  border-style: groove;
+  border-width: 10px;
+  border-color: #ffd571;
+}
+
+h1 {
+  color: #59405c;
+  font-family: yellowtail, fantasy, cursive;
+
+}
+
+h2 {
+  color: #557571;
+  font-family: yellowtail fantasy, cursive;
+}
